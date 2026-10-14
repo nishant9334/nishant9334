@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%7C+B.Tech+2027;Full+Stack+Developer;Data+Analyst;Python+%2B+pandas+%7C+JavaScript+%2B+Flask)](https://git.io/typing-svg)
 
 ![Location](https://img.shields.io/badge/Vadodara,_Gujarat-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Linkedin](www.linkedin.com/in/nishant9334)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishant9334)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantparmar1404@gmail.com)
 
 </div>
