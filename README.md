@@ -11,9 +11,7 @@
 ![Location](https://img.shields.io/badge/Vadodara,_Gujarat-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white)
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/nishant9334)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant9334)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantparmar1404@gmail.com)
 
 </div>
