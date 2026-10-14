@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="356" viewBox="0 0 490 356" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<style>.l{opacity:0;animation:in .45s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}</style>
+<rect width="490" height="356" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect width="490" height="32" rx="10" fill="#161b22"/><rect y="20" width="490" height="12" fill="#161b22"/>
+<circle cx="18" cy="16" r="5" fill="#ff5f56"/><circle cx="36" cy="16" r="5" fill="#ffbd2e"/><circle cx="54" cy="16" r="5" fill="#27c93f"/>
+<text x="245" y="21" fill="#8b949e" font-size="12" text-anchor="middle">neofetch</text>
+<g class="l" style="animation-delay:0.20s"><text x="24" y="56" fill="#39d353" font-size="16" font-weight="bold">nishant@github</text></g>
+<g class="l" style="animation-delay:0.35s"><text x="24" y="70" fill="#30363d" font-size="13">----------------------------------------</text></g>
+<g class="l" style="animation-delay:0.50s"><text x="24" y="94" fill="#58a6ff" font-size="14" font-weight="bold">Name</text><text x="110" y="94" fill="#c9d1d9" font-size="14">Nishant Parmar</text></g>
+<g class="l" style="animation-delay:0.68s"><text x="24" y="120" fill="#58a6ff" font-size="14" font-weight="bold">Now</text><text x="110" y="120" fill="#c9d1d9" font-size="14">B.Tech CSE @ Parul University (2023-27)</text></g>
+<g class="l" style="animation-delay:0.86s"><text x="24" y="146" fill="#58a6ff" font-size="14" font-weight="bold">Prev</text><text x="110" y="146" fill="#c9d1d9" font-size="14">Data Analyst Intern @ Bluestock Fintech</text></g>
+<g class="l" style="animation-delay:1.04s"><text x="24" y="172" fill="#58a6ff" font-size="14" font-weight="bold">Targets</text><text x="110" y="172" fill="#c9d1d9" font-size="14">Full Stack Developer / Data Analyst</text></g>
+<g class="l" style="animation-delay:1.22s"><text x="24" y="198" fill="#58a6ff" font-size="14" font-weight="bold">Stack</text><text x="110" y="198" fill="#c9d1d9" font-size="14">Python, SQL, Flask, MongoDB, Kotlin, Tableau</text></g>
+<g class="l" style="animation-delay:1.40s"><text x="24" y="224" fill="#58a6ff" font-size="14" font-weight="bold">Projects</text><text x="110" y="224" fill="#c9d1d9" font-size="14">ResumeIQ, B100 Intelligence,</text></g>
+<g class="l" style="animation-delay:1.58s"><text x="110" y="250" fill="#c9d1d9" font-size="14">Fresh-mart, SpendWise</text></g>
+<g class="l" style="animation-delay:1.76s"><text x="24" y="276" fill="#58a6ff" font-size="14" font-weight="bold">GitHub</text><text x="110" y="276" fill="#c9d1d9" font-size="14">github.com/nishant9334</text></g>
+<g class="l" style="animation-delay:2.14s"><rect x="24" y="316" width="18" height="18" fill="#ff5f56"/><rect x="46" y="316" width="18" height="18" fill="#ffbd2e"/><rect x="68" y="316" width="18" height="18" fill="#27c93f"/><rect x="90" y="316" width="18" height="18" fill="#58a6ff"/><rect x="112" y="316" width="18" height="18" fill="#bc8cff"/><rect x="134" y="316" width="18" height="18" fill="#39c5cf"/><rect x="156" y="316" width="18" height="18" fill="#c9d1d9"/></g>
+</svg>
