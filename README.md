@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0A1F,50:4F46E5,100:7C3AED&height=220&section=header&text=Nishant%20Parmar&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20%7C%20Data%20%26%20Analytics%20%7C%20Applied%20AI&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
