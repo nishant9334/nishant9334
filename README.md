@@ -3,7 +3,7 @@
 <div align="center">
 
 <img src="./assets/header.svg" width="100%" alt="Nishant Parmar header" />
-# Nishant Parmar
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%7C+B.Tech+2027;Full+Stack+Developer;Data+Analyst;Python+%2B+pandas+%7C+JavaScript+%2B+Flask)](https://git.io/typing-svg)
 
