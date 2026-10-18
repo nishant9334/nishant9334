@@ -2,17 +2,17 @@
 <style>.c{opacity:0;animation:pop .5s ease-out forwards}@keyframes pop{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}.t{fill:#8b949e;font-size:11px}.s{fill:#c9d1d9;font-size:12px}</style>
 <rect width="860" height="214" rx="10" fill="#0d1117"/>
 <text class="t" x="36" y="36">Oct</text>
-<text class="t" x="148" y="36">Dec</text>
-<text class="t" x="212" y="36">Jan</text>
-<text class="t" x="292" y="36">Feb</text>
-<text class="t" x="356" y="36">Mar</text>
-<text class="t" x="420" y="36">Apr</text>
-<text class="t" x="484" y="36">May</text>
-<text class="t" x="564" y="36">Jun</text>
-<text class="t" x="628" y="36">Jul</text>
-<text class="t" x="692" y="36">Aug</text>
-<text class="t" x="772" y="36">Sep</text>
-<text class="t" x="836" y="36">Oct</text>
+<text class="t" x="132" y="36">Dec</text>
+<text class="t" x="196" y="36">Jan</text>
+<text class="t" x="276" y="36">Feb</text>
+<text class="t" x="340" y="36">Mar</text>
+<text class="t" x="404" y="36">Apr</text>
+<text class="t" x="468" y="36">May</text>
+<text class="t" x="548" y="36">Jun</text>
+<text class="t" x="612" y="36">Jul</text>
+<text class="t" x="676" y="36">Aug</text>
+<text class="t" x="756" y="36">Sep</text>
+<text class="t" x="820" y="36">Oct</text>
 <text class="t" x="8" y="73">Mon</text>
 <text class="t" x="8" y="105">Wed</text>
 <text class="t" x="8" y="137">Fri</text>
@@ -371,23 +371,17 @@
 <rect class="c" style="animation-delay:0.624s" x="836" y="78" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.636s" x="836" y="94" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.648s" x="836" y="110" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.660s" x="836" y="126" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.672s" x="836" y="142" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.612s" x="852" y="46" width="13" height="13" rx="3" fill="#161b22"/>
+<rect class="c" style="animation-delay:0.660s" x="836" y="126" width="13" height="13" rx="3" fill="#006d32"/>
+<rect class="c" style="animation-delay:0.672s" x="836" y="142" width="13" height="13" rx="3" fill="#39d353"/>
+<rect class="c" style="animation-delay:0.612s" x="852" y="46" width="13" height="13" rx="3" fill="#006d32"/>
 <rect class="c" style="animation-delay:0.624s" x="852" y="62" width="13" height="13" rx="3" fill="#161b22"/>
 <rect class="c" style="animation-delay:0.636s" x="852" y="78" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.648s" x="852" y="94" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.660s" x="852" y="110" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.672s" x="852" y="126" width="13" height="13" rx="3" fill="#006d32"/>
-<rect class="c" style="animation-delay:0.684s" x="852" y="142" width="13" height="13" rx="3" fill="#39d353"/>
-<rect class="c" style="animation-delay:0.624s" x="868" y="46" width="13" height="13" rx="3" fill="#006d32"/>
-<rect class="c" style="animation-delay:0.636s" x="868" y="62" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.648s" x="868" y="78" width="13" height="13" rx="3" fill="#161b22"/>
-<rect class="c" style="animation-delay:0.660s" x="868" y="94" width="13" height="13" rx="3" fill="#69f0a0"/>
-<rect class="c" style="animation-delay:0.672s" x="868" y="110" width="13" height="13" rx="3" fill="#0e4429"/>
-<rect class="c" style="animation-delay:0.684s" x="868" y="126" width="13" height="13" rx="3" fill="#39d353"/>
-<rect class="c" style="animation-delay:0.696s" x="868" y="142" width="13" height="13" rx="3" fill="#26a641"/>
-<text class="s" x="36" y="186">59 contributions in the last year  |  current streak 4d  |  longest 4d</text>
+<rect class="c" style="animation-delay:0.648s" x="852" y="94" width="13" height="13" rx="3" fill="#69f0a0"/>
+<rect class="c" style="animation-delay:0.660s" x="852" y="110" width="13" height="13" rx="3" fill="#0e4429"/>
+<rect class="c" style="animation-delay:0.672s" x="852" y="126" width="13" height="13" rx="3" fill="#39d353"/>
+<rect class="c" style="animation-delay:0.684s" x="852" y="142" width="13" height="13" rx="3" fill="#26a641"/>
+<rect class="c" style="animation-delay:0.624s" x="868" y="46" width="13" height="13" rx="3" fill="#39d353"/>
+<text class="s" x="36" y="186">67 contributions in the last year  |  current streak 5d  |  longest 5d</text>
 <text class="t" x="670" y="186">Less</text>
 <rect x="702" y="175" width="13" height="13" rx="3" fill="#161b22"/>
 <rect x="718" y="175" width="13" height="13" rx="3" fill="#0e4429"/>
