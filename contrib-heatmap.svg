@@ -381,8 +381,9 @@
 <rect class="c" style="animation-delay:0.672s" x="852" y="126" width="13" height="13" rx="3" fill="#0e4429"/>
 <rect class="c" style="animation-delay:0.684s" x="852" y="142" width="13" height="13" rx="3" fill="#0e4429"/>
 <rect class="c" style="animation-delay:0.624s" x="868" y="46" width="13" height="13" rx="3" fill="#0e4429"/>
-<rect class="c" style="animation-delay:0.636s" x="868" y="62" width="13" height="13" rx="3" fill="#161b22"/>
-<text class="s" x="36" y="186">85 contributions in the last year  |  current streak 12d  |  longest 12d</text>
+<rect class="c" style="animation-delay:0.636s" x="868" y="62" width="13" height="13" rx="3" fill="#0e4429"/>
+<rect class="c" style="animation-delay:0.648s" x="868" y="78" width="13" height="13" rx="3" fill="#161b22"/>
+<text class="s" x="36" y="186">86 contributions in the last year  |  current streak 13d  |  longest 13d</text>
 <text class="t" x="670" y="186">Less</text>
 <rect x="702" y="175" width="13" height="13" rx="3" fill="#161b22"/>
 <rect x="718" y="175" width="13" height="13" rx="3" fill="#0e4429"/>
